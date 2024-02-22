@@ -1,0 +1,30 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    height: 100vh;
+}
+.divv{
+    font-size: 50px;
+}
+.inputt{
+    width: 300px;
+    font-size: 40px;
+}
+button{
+    background-color: aquamarine;
+    border: none;
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+}
+.fa-solid{
+    color: rgb(255, 136, 0);
+    font-size: 70px;
+    margin-top: 20px;
+}
+p{
+    font-size: 30px;
+}
